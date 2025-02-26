@@ -18,6 +18,3 @@ for generation in range(10):
 
 # نمایش بهترین راه‌حل به‌دست‌آمده
 print("Best solution:", population[0])
-
-
-Initial commit - Genetic Algorithm in Python
